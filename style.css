@@ -1,0 +1,24 @@
+#main {
+  height: 780px;
+  width: 780px;
+  position: relative;
+  background-color: white;
+  //font-size:0px;
+  white-space: nowrap;
+}
+
+.hover {
+  background-color: red;
+  margin: 1px;
+  padding: 0;
+  display: inline-block;
+  float: left;
+}
+
+.squares {
+  background-color: blue;
+  margin: 1px;
+  padding: 0;
+  display: inline-block;
+  float: left;
+}
